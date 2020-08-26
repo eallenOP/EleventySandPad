@@ -1,7 +1,7 @@
 {
   "name": "eleventysandpad",
   "version": "5.0.2",
-  "description": "",
+  "description": "Writing an eleventy blog only using iPad. Can it be done? Does this way lie madness?",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -31,5 +31,8 @@
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.2.5"
   },
-  "keywords": []
+  "keywords": [
+    "eleventy",
+    "ipad"
+  ]
 }
